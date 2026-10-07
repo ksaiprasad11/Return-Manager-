@@ -4,12 +4,7 @@ AI-powered e-commerce return inspection system.
 
 ## 🚀 Live Deployments
 
-| Component | Service | Link |
-| :--- | :--- | :--- |
-| **Frontend App** | Vercel | [https://return-manager-hazel.vercel.app](https://return-manager-hazel.vercel.app) |
-| **Backend API** | Render | [https://return-manager-backend.onrender.com](https://return-manager-backend.onrender.com) |
-| **API Interactive Docs** | Swagger | [https://return-manager-backend.onrender.com/docs](https://return-manager-backend.onrender.com/docs) |
-| **Database & Storage** | Supabase | PostgreSQL + Supabase Storage Bucket |
+https://return-manager-saiprasad2302-7891s-projects.vercel.app/
 
 ## Project Structure
 
